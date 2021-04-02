@@ -26,7 +26,8 @@ From the Dashboard, we can visualize:
 
 [Dashboard2](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
 
-![](/Images/Dashboard2.png)<br />
+![Dashboard 2](https://user-images.githubusercontent.com/73545138/113393336-85754580-9364-11eb-83a7-2cab14dc53ad.png)
+
 
 # August Peak Hours
 
@@ -47,7 +48,7 @@ Male users take approximately 3 times more rides than the female users.
 # Trips by weekday and gender
 [Dashboard7] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard7?publish=yes_)<br />
 
-![](/Images/Dashboard7.png)<br />
+![Dashboard 7](https://user-images.githubusercontent.com/73545138/113393343-873f0900-9364-11eb-99ef-de2d3a547b1d.png)!
 
 **Trips by Weekday per hour:**
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
