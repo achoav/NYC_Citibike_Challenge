@@ -39,7 +39,7 @@ The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike
 ![](/Images/Checkout_Times_total_Users.png)
 Bikes are mostly checked out for 4 to 6 hours.
 
-<img src="https://user-images.githubusercontent.com/73545138/113394109-ac804700-9365-11eb-832c-85e05e269800.png" widht=50 align=left>
+<img src="https://user-images.githubusercontent.com/73545138/113394109-ac804700-9365-11eb-832c-85e05e269800.png" height=24 align=left>
 The Box and Whisker chart gives a better visualizaition of the duration of the trips and counts.
 
 # Checkout times by gender
