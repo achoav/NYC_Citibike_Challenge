@@ -25,6 +25,7 @@ From the Dashboard, we can visualize:
 * Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.< br/>
 
 [Dashboard2](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
+
 ![](/Images/Dashboard2.png)<br />
 
 # August Peak Hours
@@ -44,7 +45,8 @@ The Box and Whisker chart gives a better visualizaition of the duration of the t
 Male users take approximately 3 times more rides than the female users.
 
 # Trips by weekday and gender
-[Dashboard7] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard7?publish=yes_)
+[Dashboard7] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard7?publish=yes_)<br />
+
 ![](/Images/Dashboard7.png)<br />
 
 **Trips by Weekday per hour:**
