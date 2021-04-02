@@ -12,50 +12,25 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 Using Tableau, create visualizations that show:
 
-*	How long bikes are checked out for all riders and genders.
-	a.	What is the Breakdown of Annual Subscribers vs. Short-Term customers? From the pie chart you can see that the majority 81.1% (1,900,359 ) are subscribers and one-time riders are 18.9% (443,865).
-	b.	What is the Gender Breakdown of Active Riders? Male riders are 65.3% (1,530,272), Female 25.1% (588,431) and unknown 9.6% (225.521)
-*	How many trips are taken by the hour for each day of the week, for all riders and genders. The horizontal column graph illustrates that the peak hours are from 5pm to 7pm (ranging from 164,618 riders to 224,566 riders).  And the off-peak hours are from 2am to 5am (suggested bike maintenance services to be performed).
-*	A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
-Results
-
-*	What is the Breakdown of Annual Subscribers vs. Short-Term customers? From the pie chart you can see that 443,865 (19%) are one-time customers and the majority 1,900,359 (81%) are subscribers.
-
-*	What are the Peak Hours for Bike Rentals? From the Horizontal Column chart, peak riding hours are from 5:00pm to 7:00pm.   And, low peak hours are 2:00am to 5:00am when bike maintenance services should be performed.
-*	What are the Top Bike stations in NYC to Start a journey?
-*	What are the Top Bike stations in NYC for Ending a journey?
-*	What is the Gender Breakdown of Active Riders?
-*	What Is the Average Trip Duration by Age? The later the birth year, the longer the ride duration, i.e., younger riders tend to use the bikes for longer periods of time.
-*	Which Bikes Are Most Likely Due for Repair?
-*	How Variable Is Bike Utilization? These will allow us to view the total usage time per bike, as well as which bikes are used the most frequently, which will give us insight into which bikes may need repairs.
 
 # Deployed Tableau Analysis
-## Links to dashboard
-
-[Dashboard2 Book 1](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
-
-[Dashboard2 Book2] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard2?publish=yes)
-[Checkout Time by Gender] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/CheckoutTimesbyGenders?publish=yes)
-[Dashboard4](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard4?publish=yes)
-[Dashboard6] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard6?publish=yes_)
-
-
 
 # New York Citi Bike data visualizations for August 2019
 
 From the Dashboard, we can visualize:
 * Total Number of Trips: here were over 2.3 million rides for the month of August 2019.
-* The Breakdown of Customer Type was: 81% of the users were *subscribers* (1.9 mln) and 19% were *one-time users* (443k)
+* The Breakdown of Customer Type was: 81.1% of the users were *annual subscribers* (1.9 mln) and 18.9% were *one-time users* (443k)
 * The Gender Breakdown: 65.3% *confirmed males* (1.5 mln) and 25.1% were *confirmed females* (588k), and the remainder 9.6% were *unknown* (225k).
 * There is a wide range of the age of the users. Younger users tend to use the service for longer rides. (Please refer to Avg. Trip Duration to Birth Year)
 * Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.< br/>
+
 [Dashboard2 Book 1](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
 ![](/Images/Dashboard2.png)<br />
 
 # August Peak Hours
 
 ![](/Images/August_Peak_Hours.png)<br />
-Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
+Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized. (ranging from 164,618 riders to 224,566 riders)
 The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 # Checkout times for users
