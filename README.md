@@ -56,7 +56,7 @@ Male users take approximately 3 times more rides than the female users.
 ![](/Images/Trips_Weekday_Hour.png)<br />
 
 **User Trips by Gender by Weekday:**
-- Those rides are mostly taken by male users
+Those rides are mostly taken by male users
 ![](/Images/Heat_Map_User_Trips_by_Gender.png)<br />
 
 # Summary
