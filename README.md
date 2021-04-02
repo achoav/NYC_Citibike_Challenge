@@ -48,37 +48,42 @@ From the Dashboard, we can visualize:
 * The Breakdown of Customer Type was: 81% of the users were *subscribers* (1.9 mln) and 19% were *one-time users* (443k)
 * The Gender Breakdown: 65.3% *confirmed males* (1.5 mln) and 25.1% were *confirmed females* (588k), and the remainder 9.6% were *unknown* (225k).
 * There is a wide range of the age of the users. Younger users tend to use the service for longer rides. (Please refer to Avg. Trip Duration to Birth Year)
-* Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.
+* Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.< br/>
 [Dashboard2 Book 1](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
-![]Images/Dashboard2.png
+![](/Images/Dashboard2.png)<br />
 
 # August Peak Hours
 
-
+![](/Images/August_Peak_Hours.png)<br />
 Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
 The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 # Checkout times for users
 
-
+![](/Images/Checkout_Times_Box_Whisker.png)<br />
 Bikes are mostly checked out for 4 to 6 hours.
 
 # Checkout times by gender
-
-
+![](/Images/Checkout_Times_Gender.png)<br />
 Male users take approximately 3 times more rides than the female users.
 
 # Trips by weekday and gender
- 
+[Dashboard7] (https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard7?publish=yes_)
 
-Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
-Weekend rides are highest from 10:00 AM to 7:00 PM.
-Those rides are mostly taken by male users.
+**Trips by Weekday per hour:**
+- Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
+- Weekend rides are highest from 10:00 AM to 7:00 PM.
+![](/Images/Trips_Weekday_Hour.png)<br />
+(https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard4?publish=yes)
+
+**User Trips by Gender by Weekday:**
+- Those rides are mostly taken by male users
+![](/Images/Heat_Map_User_Trips_by_Gender.png)<br />
+(https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book2_16148879896190/Dashboard6?publish=yes)
 
 # Summary
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
 The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
 Additional analysis would be beneficial by :
-
-comparing data for different months to determine trends across the year,
-including weather data to find the correlation between the weather and the rides.
+- comparing data for different months to determine trends across the year,
+- including weather data to find the correlation between the weather and the rides.
