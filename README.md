@@ -22,7 +22,7 @@ From the Dashboard, we can visualize:
 * The Breakdown of Customer Type was: 81.1% of the users were *annual subscribers* (1.9 mln) and 18.9% were *one-time users* (443k)
 * The Gender Breakdown: 65.3% *confirmed males* (1.5 mln) and 25.1% were *confirmed females* (588k), and the remainder 9.6% were *unknown* (225k).
 * There is a wide range of the age of the users. Younger users tend to use the service for longer rides. (Please refer to Avg. Trip Duration to Birth Year)
-* Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.< br/>
+* Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.
 
 [Dashboard2](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
 
