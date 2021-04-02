@@ -66,3 +66,5 @@ The far majority of the rides were in the very busy Manhattan Island, taken by m
 Additional analysis would be beneficial by :
 - comparing data for different months to determine trends across the year,
 - including weather data to find the correlation between the weather and the rides.
+
+![Bike_Utilization](https://user-images.githubusercontent.com/73545138/113395627-274a6180-9368-11eb-8f61-cd92066e0c6e.PNG)
