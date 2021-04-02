@@ -7,7 +7,7 @@ This project is an analysis of New York Citi Bike data for the month of August 2
 **Software:** Python 3.8.5, Anaconda Navigator 1.7.2, Jupyter Notebook 6.3.0, Tableau Public 2021.1.0
 
 # Deliverable 1
-Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype without index (index=False).  The new column created is named Tripduration Datetime. The code is on file named [NYC_CitiBike_Challenge.ipynb] (
+Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype without index (index=False).  The new column created is named Tripduration Datetime. The code is on file named [NYC_CitiBike_Challenge.ipynb] (https://github.com/achoav/NYC_Citibike_Challenge/blob/main/NYC_CitiBike_Challenge.ipynb)
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 Using Tableau, create visualizations that show:
@@ -43,11 +43,14 @@ Results
 
 # New York Citi Bike data visualizations for August 2019
 
-
-There were over 2.3 million rides for the month of August 2019.
-81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
-There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
-Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
+From the Dashboard, we can visualize:
+* Total Number of Trips: here were over 2.3 million rides for the month of August 2019.
+* The Breakdown of Customer Type was: 81% of the users were *subscribers* (1.9 mln) and 19% were *one-time users* (443k)
+* The Gender Breakdown: 65.3% *confirmed males* (1.5 mln) and 25.1% were *confirmed females* (588k), and the remainder 9.6% were *unknown* (225k).
+* There is a wide range of the age of the users. Younger users tend to use the service for longer rides. (Please refer to Avg. Trip Duration to Birth Year)
+* Top Ride Starting Locations are in the most touristic and busy areas, as we see here in Manhattan, particularly Midtown and Downtown.
+[Dashboard2 Book 1](https://public.tableau.com/profile/valerie.achoa#!/vizhome/Book1_16172147335170/Dashboard2?publish=yes)
+![]Images/Dashboard2.png
 
 # August Peak Hours
 
